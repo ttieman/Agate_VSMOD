@@ -1,0 +1,10 @@
+{
+    "type": "content",
+    "name": "Agate",
+    "version": "1.0.0",
+    "description": "A mod that adds agate as a new resource in the game.",
+    "authors": [
+        "grA"
+    ],
+    "modid": "agate"
+}
